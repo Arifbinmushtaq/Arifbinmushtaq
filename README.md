@@ -1,9 +1,8 @@
-### Hi there 👋
-
-<!--
-**Arifbinmushtaq/Arifbinmushtaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on practicals 
-- i'm currently learning python basics.
+### Hi, I'M ARIF BIN MUSHTAQ -- PERSUING BSC HONS STATISTICS FROM UNIVERSITY OF DELHI 
+USE DAILY -- PYTHON 
+LEARNING MORE ABOUT AND STUDYING : OPEN SOURCE , PYTHON , BASIC STATISTICS , OTHER PROGRAMMING LANGUAGES 
+REACH ME AS
+GMAIL : arif281679@gmail.com 
+ig : arif_.bin._mushtaq 
+linkedln : https://www.linkedin.com/in/arif-bin-mushtaq-1116b8228
+twitter : arif bin mushtaq 
